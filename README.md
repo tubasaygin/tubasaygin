@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tubasaygin
 - 👀 I’m interested in Web development, Python, Java, Kotlin, Php and C. 
-- 🌱 I’m currently learning Spring Framework. 
+- 🌱 I’m currently learning .Net Framework. 
 - 📫 How to reach me --> https://www.linkedin.com/in/tuba-sayg%C4%B1n-6b084416b/
 
 <!---
